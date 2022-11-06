@@ -53,7 +53,7 @@
             • Update container size before updating tracking area
             • Overrode isEditable and isSelectable to explicitly set
               non-editable and non-selectable.
-            • Replace soft deprecated API usage with modern replacements
+            • Swift
 */
 
 import AppKit
