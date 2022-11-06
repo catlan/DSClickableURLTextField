@@ -1,6 +1,9 @@
 # DSClickableURLTextField
 
-DSClickableURLTextField is a subclass of NSTextField that does one thing: allow links to be clicked on and opened.
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcatlan%2FDSClickableURLTextField%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/catlan/DSClickableURLTextField)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fcatlan%2FDSClickableURLTextField%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/catlan/DSClickableURLTextField)
+
+NSTextField subclass that does one thing: allow links to be clicked on and opened.
 
 ![DSClickableURLTextField Example Screenshot](Example/Screenshot.png "DSClickableURLTextField Example Screenshot")
 
